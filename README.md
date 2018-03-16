@@ -3,7 +3,7 @@ Books/articles that have been influential to me over the years
 
 Design
 - ["The Design of Everyday Things" by Don Norman](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/ref=sr_1_3?s=books&ie=UTF8&qid=1521229662&sr=1-3&keywords=design+of+everyday+things)
-- ["Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days"](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X/ref=sr_1_1?s=books&ie=UTF8&qid=1521229633&sr=1-1&keywords=sprint+jake+knapp)
+- ["Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days" by Jake Knapp](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X/ref=sr_1_1?s=books&ie=UTF8&qid=1521229633&sr=1-1&keywords=sprint+jake+knapp)
 
 Digital Addiction/Silence/Sabbath
 - 
